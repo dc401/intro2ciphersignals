@@ -1,0 +1,36 @@
++ + + S + + E + + + + T + + + 
++ + + E E + + N K E Y W + D O 
++ + + C + R + + I + + O + A R 
++ + + U + + A P + N + + + T E 
++ + + R + + O U S E V E N A Z 
+E + + I + T + T Q + + + + + + 
+L + + T S + R + + S E V I F + 
+C + + Y + I + + + + + + + + + 
+R N E T A + + + + + + + + + + 
+I + + N + + + + + + + O E + + 
+C E G N A H C + + + + E N + + 
++ L I + + + + + + + R + S E F 
+E + + G + + + + + H + I + O + 
++ + + + H + + + T + X + U + + 
++ + + + + T + + + + + R + + + 
+
+(Over,Down,Direction) 
+CHANGE(7,11,W)
+CIRCLE(1,11,N)
+DATA(14,2,S)
+EIGHT(2,11,SE)
+FIVE(14,7,W)
+FOUR(15,12,SW)
+KEY(9,2,E)
+NINE(10,4,NW)
+ONE(12,10,SE)
+SECURITY(4,1,S)
+SEVEN(9,5,E)
+SIX(13,12,SW)
+SQUARE(10,7,NW)
+STOP(5,7,NE)
+TEN(4,9,W)
+THREE(9,14,NE)
+TRIANGLE(8,6,SW)
+TWO(12,1,S)
+ZERO(15,5,N)
