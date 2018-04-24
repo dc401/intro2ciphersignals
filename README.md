@@ -22,3 +22,6 @@ https://docs.microsoft.com/en-us/powershell/module/Microsoft.PowerShell.Security
 Google Music Labs
 https://musiclab.chromeexperiments.com/
 
+#Sponsored by
+Interested in getting advanced cyber defense solutions for your business?
+www.scissecurity.com
