@@ -1,5 +1,5 @@
 # intro2ciphersignals
-An introduction to crypto ciphers and signals intelligence for parents to teach their kids.
+An introduction to crypto ciphers and signals intelligence for parents to teach their kids. Recommended for Grade 4+
 
 Download the appropriate text and powershell files for details on the lesson. The parents and kids will learn together how to encrypt and decrypt messages over a signal.
 
