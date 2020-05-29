@@ -1,14 +1,17 @@
 # intro2ciphersignals
 An introduction to crypto ciphers and signals intelligence for parents to teach their kids. Recommended for Grade 4+
 
+This is part of a tutorial written on Medium, please follow the link below for more context.
+**[A Practical and Hands-On Intro to Ciphers and Signals for Parents and Kids](https://medium.com/swlh/a-practical-and-hands-on-intro-to-ciphers-and-signals-for-parents-and-kids-c767302d84a)**
+![enter image description here](https://raw.githubusercontent.com/dc401/intro2ciphersignals/master/ciphersintro.png)
+
+![enter image description here](https://raw.githubusercontent.com/dc401/intro2ciphersignals/master/cipher-introsymkey.png)
+
+
 Download the appropriate text and powershell files for details on the lesson. The parents and kids will learn together how to encrypt and decrypt messages over a signal.
 
-Accompanying Article and Guide:
-https://www.linkedin.com/pulse/practical-hands-on-intro-ciphers-signals-parents-kids-chow-mba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3Bg%2B27u8xZS5eiplxTrdVRhg%3D%3D
 
-
-3rd party resources referenced in original article:
-
+# 3rd party resources referenced in original article:
 Word Search Puzzle Maker:
 http://puzzlemaker.discoveryeducation.com/WordSearchSetupForm.asp?campaign=flyout_teachers_puzzle_wordcross
 
